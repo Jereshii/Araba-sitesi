@@ -1,0 +1,69 @@
+body{
+	font-family:Arial,Helvetica;
+	font-size:10px;
+	background-color:#000000;
+	color:#ff0000;
+}
+#genel{
+	margin:25px auto;
+	width:1100px;
+	padding:0px;
+}
+#resim{
+	height:300;
+	width:100%;
+}
+#menu{
+	width:1078;
+	padding:10px;
+	height:50px;
+	border:5px solid #CCC;
+	background-color:#CCC;
+}
+.menuekle{
+	font-size:20;
+	float:left;
+	width:400px;
+	height:40px;
+	border:1px solid #ff0000;
+	background-color:#ccc;
+	text-align:center;
+	margin-right:40px;
+}
+#icerik {
+	font-size:13;
+	width:1078px;
+	padding:20px;
+	border:1px solid #ff0000;
+	background-color:#ccc;
+}
+#menu a:link {
+	color:#FFF;
+	text-decoration:none;
+	display:block;
+	height:25px;	
+}
+#menu a:hover {
+	background-color:#09F;
+	color:#CCC;
+	display:block;
+	height:25px;
+}
+#menu a:visited {
+	color:#fff;
+	height:25px;
+}
+a:link {
+	color:#F00;
+	text-decoration:none;	
+}
+a:hover {
+	color:#00F;
+}
+a:visited {
+	color:#F00;
+}
+
+
+
+
